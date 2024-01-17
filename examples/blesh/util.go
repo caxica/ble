@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/sausheong/ble"
+	"github.com/caxica/ble"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
 )

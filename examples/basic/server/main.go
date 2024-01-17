@@ -7,9 +7,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/sausheong/ble"
-	"github.com/sausheong/ble/examples/lib"
-	"github.com/sausheong/ble/examples/lib/dev"
+	"github.com/caxica/ble"
+	"github.com/caxica/ble/examples/lib"
+	"github.com/caxica/ble/examples/lib/dev"
 	"github.com/pkg/errors"
 )
 

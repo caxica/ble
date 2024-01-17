@@ -8,9 +8,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/sausheong/ble"
-	"github.com/sausheong/ble/linux/hci/cmd"
-	"github.com/sausheong/ble/linux/hci/evt"
+	"github.com/caxica/ble"
+	"github.com/caxica/ble/linux/hci/cmd"
+	"github.com/caxica/ble/linux/hci/evt"
 	"github.com/pkg/errors"
 )
 

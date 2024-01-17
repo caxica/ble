@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sausheong/ble"
+	"github.com/caxica/ble"
 	"github.com/pkg/errors"
 )
 

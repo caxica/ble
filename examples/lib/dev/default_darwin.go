@@ -1,8 +1,8 @@
 package dev
 
 import (
-	"github.com/sausheong/ble"
-	"github.com/sausheong/ble/darwin"
+	"github.com/caxica/ble"
+	"github.com/caxica/ble/darwin"
 )
 
 // DefaultDevice ...

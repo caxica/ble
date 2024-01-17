@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/sausheong/ble"
+	"github.com/caxica/ble"
 	"github.com/urfave/cli"
 )
 

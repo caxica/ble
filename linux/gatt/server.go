@@ -4,8 +4,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/sausheong/ble"
-	"github.com/sausheong/ble/linux/att"
+	"github.com/caxica/ble"
+	"github.com/caxica/ble/linux/att"
 )
 
 // NewServerWithName creates a new Server with the specified name

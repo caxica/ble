@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/sausheong/ble"
+	"github.com/caxica/ble"
 	"github.com/pkg/errors"
 	"github.com/raff/goble/xpc"
 

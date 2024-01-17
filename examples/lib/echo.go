@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sausheong/ble"
+	"github.com/caxica/ble"
 )
 
 // NewEchoChar ...
